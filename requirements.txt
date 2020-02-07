@@ -1,0 +1,10 @@
+Django~=2.2.4
+
+# For Beautiful Admin Interface 
+django-jet
+
+# For Google Analytics widgets
+google-api-python-client==1.4.1
+
+# For latest Django News
+feedparser
